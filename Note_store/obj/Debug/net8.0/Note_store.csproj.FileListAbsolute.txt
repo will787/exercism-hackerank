@@ -1,0 +1,14 @@
+C:\Users\vieir\all-C#\HackerRank\Note_store\obj\Debug\net8.0\Note_store.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vieir\all-C#\HackerRank\Note_store\obj\Debug\net8.0\Note_store.AssemblyInfoInputs.cache
+C:\Users\vieir\all-C#\HackerRank\Note_store\obj\Debug\net8.0\Note_store.AssemblyInfo.cs
+C:\Users\vieir\all-C#\HackerRank\Note_store\obj\Debug\net8.0\Note_store.csproj.CoreCompileInputs.cache
+C:\Users\vieir\all-C#\HackerRank\Note_store\bin\Debug\net8.0\Note_store.exe
+C:\Users\vieir\all-C#\HackerRank\Note_store\bin\Debug\net8.0\Note_store.deps.json
+C:\Users\vieir\all-C#\HackerRank\Note_store\bin\Debug\net8.0\Note_store.runtimeconfig.json
+C:\Users\vieir\all-C#\HackerRank\Note_store\bin\Debug\net8.0\Note_store.dll
+C:\Users\vieir\all-C#\HackerRank\Note_store\bin\Debug\net8.0\Note_store.pdb
+C:\Users\vieir\all-C#\HackerRank\Note_store\obj\Debug\net8.0\Note_store.dll
+C:\Users\vieir\all-C#\HackerRank\Note_store\obj\Debug\net8.0\refint\Note_store.dll
+C:\Users\vieir\all-C#\HackerRank\Note_store\obj\Debug\net8.0\Note_store.pdb
+C:\Users\vieir\all-C#\HackerRank\Note_store\obj\Debug\net8.0\Note_store.genruntimeconfig.cache
+C:\Users\vieir\all-C#\HackerRank\Note_store\obj\Debug\net8.0\ref\Note_store.dll
